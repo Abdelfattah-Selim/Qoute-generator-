@@ -1,2 +1,1 @@
-# Qoute-generator-
-project
+# simple-projects
